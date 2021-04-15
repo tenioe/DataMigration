@@ -15,16 +15,16 @@ Project description:
 
 Performance results :
 - Testing 10K file without threads...
-The data migration took 0.784 without threads.
+The data migration took 0.784 milliseconds without threads.
 
 - Testing 10K file with 10 threads...
-The data migration took 0.742 without threads.
+The data migration took 0.742 milliseconds without threads.
 
 - Testing 65K file without threads...
-The data migration took 0.5598 without threads.
+The data migration took 0.5598 milliseconds without threads.
 
 - Testing 65K file with threads...
-The data migration took 0.2257 without threads.
+The data migration took 0.2257 milliseconds without threads.
 
 Technologies:
 - IntelliJ
